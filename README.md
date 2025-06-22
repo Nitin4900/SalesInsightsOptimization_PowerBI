@@ -1,2 +1,2 @@
-# SalesInsightsOptimization_PowerBI
+# SalesInsightsOptimization_PowerB
 PowerBI &amp; Sql
